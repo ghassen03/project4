@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    Background:
+
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(250, 215, 215, 0) 70.71%),
+    
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+
+}
+.bare{
+    display: inline;
+    font-size: 40px;
+}
+#head{
+    margin-left: 25%;
+}
+.head{
+    margin-left: 25%;
+}
+.bare a{
+    text-decoration: none;
+    margin-left: 7%;
+    color: white;
+}
+.bare a:hover{
+    color:red;
+}
+#navigation{
+    background-color: red;
+    margin-bottom: 20px;
+}
+.btn{
+    position: relative;
+    top: -50px;
+}
